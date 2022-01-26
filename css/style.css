@@ -81,9 +81,12 @@ button:active {
     background-color: #ab4d21a2;
 }
 
-.header-content img {
+.header-content-image {
     width: 650px;
-    aspect-ratio: 16/8;
+    height: 500px;
+    background-image: url("../images/—Pngtree—flying\ cup\ of\ coffee\ with_5057949.png");
+    background-position: center;
+    background-size: cover;
 }
 
 .make-coffee {
